@@ -34,18 +34,18 @@ const OpenSource = () => {
       year: "2025",
       url: "https://github.com/bubblelabai/BubbleLab/pull/185"
     },
-    {
-      title: "feat(integrations): add Jira integration with comprehensive issue management",
-      repository: "BubbleLab",
-      year: "2025",
-      url: "https://github.com/bubblelabai/BubbleLab/pull/222"
-    },
-    {
-      title: "feat(signin): Implement password sign-in option",
-      repository: "Cap",
-      year: "2025",
-      url: "https://github.com/CapSoftware/Cap/pull/1380"
-    }
+    // {
+    //   title: "feat(integrations): add Jira integration with comprehensive issue management",
+    //   repository: "BubbleLab",
+    //   year: "2025",
+    //   url: "https://github.com/bubblelabai/BubbleLab/pull/222"
+    // },
+    // {
+    //   title: "feat(signin): Implement password sign-in option",
+    //   repository: "Cap",
+    //   year: "2025",
+    //   url: "https://github.com/CapSoftware/Cap/pull/1380"
+    // }
   ]
 
   const currentDate = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
