@@ -63,8 +63,9 @@ const Header = () => {
               </svg>
             </a>
             <a 
-              href="/resume.pdf" 
-              download
+              href="https://drive.google.com/uc?export=download&id=1V8S8JtXEwqbAaWeD-tasHvCpaJHYuzwB" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-9 h-9 sm:w-10 sm:h-10 flex items-center justify-center hover:text-gray-400 transition-colors"
               aria-label="Resume"
             >
