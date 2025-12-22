@@ -1,3 +1,5 @@
+import dp from "/dp.png";
+
 const Header = () => {
   return (
     <section className="pt-12 pb-8">
@@ -7,7 +9,7 @@ const Header = () => {
           <div className="flex-shrink-0">
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full border-2 border-gray-700 overflow-hidden bg-gradient-to-br from-green-400 to-blue-500 flex items-center justify-center mb-4">
               <div className="w-full h-full bg-gradient-to-br from-green-300 to-blue-400 flex items-center justify-center text-5xl md:text-6xl font-bold text-white">
-              <img src="https://8upwgyqr5v9h1dni.public.blob.vercel-storage.com/dp.png" alt="Deepak" className="w-full h-full object-cover" />
+              <img src={dp} alt="Deepak" className="w-full h-full object-cover" />
               </div>
             </div>
             <h1 className="text-4xl md:text-5xl font-serif mb-2">Deepak</h1>
