@@ -24,7 +24,6 @@ const Experience = () => {
       descriptions: [
         "Designed and engineered a WebRTC + SIP–based inbound/outbound calling system integrated with omnichannel ticket creation (Instagram, Facebook, etc.), increasing customer connection rate by 20% and improving resolution efficiency by 40%.",
         "Developed scalable Reactive REST APIs and microservices using WebClient + async execution, improving throughput/latency by 30% across distributed systems.",
-        "Implemented Key-Based Executors to enforce deterministic sequential processing and eliminate unordered execution issues under high concurrency.",
         "Architected an AI-driven merchant onboarding and verification platform, reducing manual review workload by 60% and enabling seamless onboarding of 500+ merchants/day.",
         "Engineered ML-integrated voice-bot escalation workflows with automated handover, reliably processing 10K+ daily escalation events with high accuracy and operational stability.",
         "Executed large-scale database migration for ticketing data including relational tables and transactional history, ensuring zero data loss and full consistency.",
