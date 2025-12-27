@@ -29,10 +29,16 @@ const OpenSource = () => {
       url: "https://github.com/bubblelabai/BubbleLab/pull/185"
     },
     {
-      title: "Fix: Prevent HTML/CSS from breaking execution history page styling",
+      title: "Fix: Prevent inline CSS from breaking execution history page styling",
       repository: "BubbleLab",
       year: "2025",
       url: "https://github.com/bubblelabai/BubbleLab/pull/185"
+    },
+    {
+      title: "Fix: Prevents cron jobs from being activated without required inputs and credentials configured. Also refactors validation logic into a shared utility to reduce code duplication.",
+      repository: "BubbleLab",
+      year: "2025",
+      url: "https://github.com/bubblelabai/BubbleLab/pull/243"
     },
     // {
     //   title: "feat(integrations): add Jira integration with comprehensive issue management",
