@@ -40,6 +40,12 @@ const OpenSource = () => {
       year: "2025",
       url: "https://github.com/bubblelabai/BubbleLab/pull/243"
     },
+    {
+      title: "Fix: Promise.all visualization for .map() patterns in BubbleFlow",
+      repository: "BubbleLab",
+      year: "2025",
+      url: "https://github.com/bubblelabai/BubbleLab/pull/247"
+    },
     // {
     //   title: "feat(integrations): add Jira integration with comprehensive issue management",
     //   repository: "BubbleLab",
