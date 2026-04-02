@@ -14,7 +14,7 @@ const Projects = () => {
         "Implemented semantic product discovery using text and image embeddings, improving search relevance and accuracy by 35%.",
         "Optimized backend APIs and database performance to support scalable ordering, analytics, and vendor growth."
       ],
-      liveUrl: "https://ecomfort.com",
+      liveUrl: "https://ecomfort.vercel.app",
       githubUrl: "https://github.com/depak7/ecom-fort",
     },
     {
