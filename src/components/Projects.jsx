@@ -28,7 +28,7 @@ const Projects = () => {
       ],
       liveUrl: "https://actbrow.depak.dev/",
       githubUrl: "https://github.com/depak7/actbrow",
-    }
+    },
     {
       iconType: "component",
       iconComponent: Sparkles,
