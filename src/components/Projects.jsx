@@ -21,6 +21,18 @@ const Projects = () => {
       iconType: "component",
       iconComponent: Sparkles,
       iconBg: "from-blue-500 to-cyan-500",
+      name: "Actbrow",
+      description: "The AI agent that lives inside your product",
+      descriptions: [
+        "Actbrow is an AI agent platform that embeds directly into SaaS applications, enabling users to navigate products, execute actions, and complete workflows using natural language. It combines LLM-powered reasoning, OpenAPI integrations, and knowledge retrieval to automate tasks and provide contextual assistance. By turning documentation and APIs into actionable capabilities, Actbrow improves onboarding, reduces support overhead, and increases product adoption."
+      ],
+      liveUrl: "https://actbrow.depak.dev/",
+      githubUrl: "https://github.com/depak7/actbrow",
+    }
+    {
+      iconType: "component",
+      iconComponent: Sparkles,
+      iconBg: "from-blue-500 to-cyan-500",
       name: "AI-Animator",
       description: "An AI-powered system for generating dynamic 3D animations from natural language.",
       descriptions: [
