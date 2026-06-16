@@ -1,5 +1,9 @@
 const Hackathons = () => {
   const achievements = [
+{
+  title: "Runner-Up – Agentic Workflow & Browser Automation Platform",
+  description: "Won Runner-Up for developing an AI-powered browser agent within a workflow automation and customer support platform, enabling no-code workflow creation and execution. Built a browser extension for end-to-end chatbot testing, conversation validation, and user interaction simulation."
+},
     {
       title: "4th Place - Database Management in AI Agentic Workflow & One-Click CRM Integration",
       description: "Secured 4th place for adding database management capabilities in an AI agentic workflow platform with easy one-click integration for all CRMs including Supabase, Salesforce, Zoho, and other major CRM platforms.",
